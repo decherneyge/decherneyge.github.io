@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On being helpful"
-date:   2023-01-26 22:23:18 -0500
+date:   2023-01-26 12:00:00 -0500
 categories: working helpful
 ---
 
