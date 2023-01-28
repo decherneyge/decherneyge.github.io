@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "On being helpful"
-date:   2023-01-26 12:00:00 -0500
-categories: working helpful
+title: "On being helpful"
+date: 2023-01-26 12:00:00 -0500
+categories: 
+    - thoughts
+tags: 
+    - working 
+    - helpful
 ---
 
 One of my favorite things to say is “what can I do help?”. It feels good to help others. And before you pull a muscle rolling your eyes I know it sounds cheesy and I don’t care. 
