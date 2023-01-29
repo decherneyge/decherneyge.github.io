@@ -105,18 +105,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:george.decherney@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/decherneyge"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/decherneyge"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/decherneyge/"
+    - "https://twitter.com/decherneyge"
+    - "https://github.com/decherneyge"
+    - "https://www.linkedin.com/in/decherneyge/"
 
 # Analytics
 analytics:
