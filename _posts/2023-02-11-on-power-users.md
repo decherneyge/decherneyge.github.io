@@ -1,4 +1,4 @@
-—
+--
 title: “On Power Users”
 date: 2023-02-11 12:00:00 -0500
 categories: 
@@ -6,7 +6,7 @@ categories:
 tags: 
     - user experience 
     - applications
-—
+--
 
 
 I wonder if I should let users self-identify as power users. 
