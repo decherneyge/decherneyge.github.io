@@ -1,6 +1,6 @@
 ---
 title: "Interesting links from last week"
-date: 2023-02-26 12:00:00 -0500
+date: 2023-02-26 08:00:00 -0500
 categories: 
     - links
     - interesting
@@ -34,7 +34,7 @@ Here are some interesting links I found last week:
 - [I don't like making the best things.](https://internetvin.ghost.io/i-dont-like-making-the-best-things/)
 
     I liked this one because it reminded me not to let perfection be the enemy of the good.
-- 
+
 
 - [AI is Useful for Capitalists but Probably Terrible for Anyone Else](https://mebassett.info/ai-useful-for-capitalist)
     
