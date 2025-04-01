@@ -1,6 +1,6 @@
 ---
 title: "On Cursor IDE"
-date: 2025-04-01 12:00:00 -0500
+date: 2025-04-01 11:00:00 -0500
 categories: 
     - thoughts
 tags: 
